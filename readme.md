@@ -11,4 +11,4 @@ Check this application live at https://short-lnk-d.herokuapp.com/
 
 ## Author
 
-DWebSoftGuy
+DWebSoft
