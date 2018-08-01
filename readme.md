@@ -1,7 +1,7 @@
-Short Lnk
+#Short Lnk
 
 This application is cread using Meteor and React    
 
-Author
+##Author
 
 DWebSoftGuy
